@@ -7,4 +7,4 @@
 
 ### 🌐 Connect with me
 🔗 **LinkedIn:** https://www.linkedin.com/in/dhanushrongali  
-💬 **Discord:** dhnaush.10
+💬 **Discord:** dhanush.10
