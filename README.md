@@ -31,7 +31,7 @@ I'm also pursuing a **BS in Data Science from IIT Madras**, expanding my knowled
 - 🎓 **B.Tech:** Artificial Intelligence Engineering — Amrita Vishwa Vidyapeetham
 - 📊 **BS:** Data Science — IIT Madras
 - 🔬 **Research:** Published research in IEEE Access on SVD-based image compression
-- 💻 **Development:** Building projects in Python, Java, JavaScript, and TypeScript
+- 💻 **Development:** Building projects in Python, Java, JavaScript, C, Html, CSS
 - 🤖 **Interests:** Artificial Intelligence, AI Agents, Machine Learning, and intelligent applications
 - 🏗️ **Leadership:** Secretary at JIDO, The Industrial Automation Club
 - 🎯 **Goal:** Build impactful technology through engineering, experimentation, and continuous learning
